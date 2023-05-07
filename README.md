@@ -13,4 +13,4 @@ Side reaction analysis and Nanospray results interpretation (20230324 - )
 
 # Update:
 
-- Side reaction analysis based on solvent-participated reactions (ester hydrolysis, transesterification, SN2, E2, ester exchange).
+- Side reaction analysis based on solvent-participated reactions (ester hydrolysis, transesterification, SN2, E2, ester exchange, formation of ionic liquid).
