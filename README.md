@@ -11,6 +11,6 @@ Side reaction analysis and Nanospray results interpretation (20230324 - )
 
 - Example output: [rxn_anls_log_05072023120819.txt](https://github.com/xueannafang/MystMS_SP2_20230506/blob/main/rxn_anls_log_05072023120819.txt)
 
-# What's new?
+# Update:
 
 - Side reaction analysis based on solvent-participated reactions (ester hydrolysis, transesterification, SN2, E2, ester exchange).
