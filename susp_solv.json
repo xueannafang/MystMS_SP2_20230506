@@ -1,0 +1,52 @@
+[
+ {
+  "name": "NMI",
+  "ms": 82.1,
+  "susp_prop": "N_lp",
+  "full_name": "N-methylimidazole"
+ },
+ {
+  "name": "Pyd",
+  "ms": 79.1,
+  "susp_prop": "N_lp",
+  "full_name": "Pyridine"
+ },
+ {
+  "name": "TEA",
+  "ms": 101.19,
+  "susp_prop": "N_lp",
+  "full_name": "Triethylamine"
+ },
+ {
+  "name": "nPA",
+  "ms": 60.09,
+  "susp_prop": "OH",
+  "full_name": "1-propanol"
+ },
+ {
+  "name": "EtOH",
+  "ms": 46.07,
+  "susp_prop": "OH",
+  "full_name": "ethanol"
+ },
+ {
+  "name": "IPA",
+  "ms": 60.1,
+  "susp_prop": "OH",
+  "full_name": "isopropanol"
+ },
+ {
+  "name": "tBuOH",
+  "ms": 74.12,
+  "susp_prop": "OH",
+  "full_name": "tertbutylalcohol"
+ },
+ {
+  "name": "EA",
+  "ms": 88.11,
+  "susp_prop": "est",
+  "full_name": "ethyal_acetate",
+  "exg_frag_ms": 46.01
+
+ }
+]
