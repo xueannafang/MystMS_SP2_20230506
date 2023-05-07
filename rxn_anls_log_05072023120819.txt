@@ -1,0 +1,385 @@
+2023-05-07 12:08:19.932294
+==================== 
+Potential side products not induced by solvents: 
+==================== 
+
+ ------ 
+Group 1: 
+rxn_n : 0
+ms : 184.15
+msg : 0 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 0 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
+name : smOH->OC12H25_0|COOMe->COOH_0
+
+ ------ 
+Group 2: 
+rxn_n : 0
+ms : 352.47400000000005
+msg : 1 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 0 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
+name : smOH->OC12H25_1|COOMe->COOH_0
+
+ ------ 
+Group 3: 
+rxn_n : 0
+ms : 520.798
+msg : 2 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 0 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
+name : smOH->OC12H25_2|COOMe->COOH_0
+
+ ------ 
+Group 4: 
+rxn_n : 0
+ms : 689.1220000000001
+msg : 3 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 0 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
+name : smOH->OC12H25_3|COOMe->COOH_0
+
+ ------ 
+Group 5: 
+rxn_n : 1
+ms : 170.12300000000002
+msg : 0 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 1 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
+name : smOH->OC12H25_0|COOMe->COOH_1
+
+ ------ 
+Group 6: 
+rxn_n : 1
+ms : 338.44700000000006
+msg : 1 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 1 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
+name : smOH->OC12H25_1|COOMe->COOH_1
+
+ ------ 
+Group 7: 
+rxn_n : 1
+ms : 506.771
+msg : 2 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 1 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
+name : smOH->OC12H25_2|COOMe->COOH_1
+
+ ------ 
+Group 8: 
+rxn_n : 1
+ms : 675.095
+msg : 3 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 1 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
+name : smOH->OC12H25_3|COOMe->COOH_1
+
+ =========================== 
+Potential side products induced by solvents: 
+
+========================== 
+side_rx_type : IL
+
+ ------ 
+Group 1: 
+
+ms : 331.34000000000003
+msg : Ionic liuqid is formed between N-methylimidazole and 1-bromododecane.
+name : NMI_BrAlkane_salt
+
+ ------ 
+Group 2: 
+
+ms : 328.34000000000003
+msg : Ionic liuqid is formed between Pyridine and 1-bromododecane.
+name : Pyd_BrAlkane_salt
+
+ ------ 
+Group 3: 
+
+ms : 350.43
+msg : Ionic liuqid is formed between Triethylamine and 1-bromododecane.
+name : TEA_BrAlkane_salt
+
+ =========================== 
+========================== 
+side_rx_type : EstAtk
+
+ ------ 
+Group 1: 
+
+ms : 234.208
+msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by N-methylimidazole .
+name : NMI_smOH->OC12H25_0_new_ester
+
+ ------ 
+Group 2: 
+
+ms : 402.53200000000004
+msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by N-methylimidazole .
+name : NMI_smOH->OC12H25_1_new_ester
+
+ ------ 
+Group 3: 
+
+ms : 570.856
+msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by N-methylimidazole .
+name : NMI_smOH->OC12H25_2_new_ester
+
+ ------ 
+Group 4: 
+
+ms : 739.1800000000001
+msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by N-methylimidazole .
+name : NMI_smOH->OC12H25_3_new_ester
+
+ ------ 
+Group 5: 
+
+ms : 231.208
+msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by Pyridine .
+name : Pyd_smOH->OC12H25_0_new_ester
+
+ ------ 
+Group 6: 
+
+ms : 399.53200000000004
+msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by Pyridine .
+name : Pyd_smOH->OC12H25_1_new_ester
+
+ ------ 
+Group 7: 
+
+ms : 567.856
+msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by Pyridine .
+name : Pyd_smOH->OC12H25_2_new_ester
+
+ ------ 
+Group 8: 
+
+ms : 736.1800000000001
+msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by Pyridine .
+name : Pyd_smOH->OC12H25_3_new_ester
+
+ ------ 
+Group 9: 
+
+ms : 253.29800000000003
+msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by Triethylamine .
+name : TEA_smOH->OC12H25_0_new_ester
+
+ ------ 
+Group 10: 
+
+ms : 421.62200000000007
+msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by Triethylamine .
+name : TEA_smOH->OC12H25_1_new_ester
+
+ ------ 
+Group 11: 
+
+ms : 589.946
+msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by Triethylamine .
+name : TEA_smOH->OC12H25_2_new_ester
+
+ ------ 
+Group 12: 
+
+ms : 758.2700000000001
+msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by Triethylamine .
+name : TEA_smOH->OC12H25_3_new_ester
+
+ ------ 
+Group 13: 
+
+ms : 212.198
+msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by 1-propanol .
+name : nPA_smOH->OC12H25_0_new_ester
+
+ ------ 
+Group 14: 
+
+ms : 380.52200000000005
+msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by 1-propanol .
+name : nPA_smOH->OC12H25_1_new_ester
+
+ ------ 
+Group 15: 
+
+ms : 548.846
+msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by 1-propanol .
+name : nPA_smOH->OC12H25_2_new_ester
+
+ ------ 
+Group 16: 
+
+ms : 717.1700000000001
+msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by 1-propanol .
+name : nPA_smOH->OC12H25_3_new_ester
+
+ ------ 
+Group 17: 
+
+ms : 198.178
+msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by ethanol .
+name : EtOH_smOH->OC12H25_0_new_ester
+
+ ------ 
+Group 18: 
+
+ms : 366.50200000000007
+msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by ethanol .
+name : EtOH_smOH->OC12H25_1_new_ester
+
+ ------ 
+Group 19: 
+
+ms : 534.826
+msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by ethanol .
+name : EtOH_smOH->OC12H25_2_new_ester
+
+ ------ 
+Group 20: 
+
+ms : 703.1500000000001
+msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by ethanol .
+name : EtOH_smOH->OC12H25_3_new_ester
+
+ ------ 
+Group 21: 
+
+ms : 212.208
+msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by isopropanol .
+name : IPA_smOH->OC12H25_0_new_ester
+
+ ------ 
+Group 22: 
+
+ms : 380.53200000000004
+msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by isopropanol .
+name : IPA_smOH->OC12H25_1_new_ester
+
+ ------ 
+Group 23: 
+
+ms : 548.856
+msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by isopropanol .
+name : IPA_smOH->OC12H25_2_new_ester
+
+ ------ 
+Group 24: 
+
+ms : 717.1800000000001
+msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by isopropanol .
+name : IPA_smOH->OC12H25_3_new_ester
+
+ ------ 
+Group 25: 
+
+ms : 226.22799999999998
+msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by tertbutylalcohol .
+name : tBuOH_smOH->OC12H25_0_new_ester
+
+ ------ 
+Group 26: 
+
+ms : 394.552
+msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by tertbutylalcohol .
+name : tBuOH_smOH->OC12H25_1_new_ester
+
+ ------ 
+Group 27: 
+
+ms : 562.876
+msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by tertbutylalcohol .
+name : tBuOH_smOH->OC12H25_2_new_ester
+
+ ------ 
+Group 28: 
+
+ms : 731.2
+msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by tertbutylalcohol .
+name : tBuOH_smOH->OC12H25_3_new_ester
+
+ =========================== 
+========================== 
+side_rx_type : SN2
+
+ ------ 
+Group 1: 
+
+ms : 228.41800000000003
+msg : SN2 product is formed between 1-propanol and 1-bromododecane.
+name : nPA_BrAlkane_SN2
+
+ ------ 
+Group 2: 
+
+ms : 214.398
+msg : SN2 product is formed between ethanol and 1-bromododecane.
+name : EtOH_BrAlkane_SN2
+
+ ------ 
+Group 3: 
+
+ms : 228.42800000000003
+msg : SN2 product is formed between isopropanol and 1-bromododecane.
+name : IPA_BrAlkane_SN2
+
+ ------ 
+Group 4: 
+
+ms : 242.448
+msg : SN2 product is formed between tertbutylalcohol and 1-bromododecane.
+name : tBuOH_BrAlkane_SN2
+
+ =========================== 
+========================== 
+side_rx_type : E2
+
+ ------ 
+Group 1: 
+
+ms : 168.328
+msg : E2 product is formed from by 1-bromododecane when reacting with 1-propanol.
+name : nPA_BrAlkane_E2
+
+ ------ 
+Group 2: 
+
+ms : 168.328
+msg : E2 product is formed from by 1-bromododecane when reacting with ethanol.
+name : EtOH_BrAlkane_E2
+
+ ------ 
+Group 3: 
+
+ms : 168.328
+msg : E2 product is formed from by 1-bromododecane when reacting with isopropanol.
+name : IPA_BrAlkane_E2
+
+ ------ 
+Group 4: 
+
+ms : 168.328
+msg : E2 product is formed from by 1-bromododecane when reacting with tertbutylalcohol.
+name : tBuOH_BrAlkane_E2
+
+ =========================== 
+========================== 
+side_rx_type : EstExg
+
+ ------ 
+Group 1: 
+
+ms : 198.118
+msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by the equivalent alcohol part of the ethyal_acetate .
+name : EA_smOH->OC12H25_0_new_ester
+
+ ------ 
+Group 2: 
+
+ms : 366.442
+msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by the equivalent alcohol part of the ethyal_acetate .
+name : EA_smOH->OC12H25_1_new_ester
+
+ ------ 
+Group 3: 
+
+ms : 534.766
+msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by the equivalent alcohol part of the ethyal_acetate .
+name : EA_smOH->OC12H25_2_new_ester
+
+ ------ 
+Group 4: 
+
+ms : 703.09
+msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by the equivalent alcohol part of the ethyal_acetate .
+name : EA_smOH->OC12H25_3_new_ester
+
+ =========================== 
