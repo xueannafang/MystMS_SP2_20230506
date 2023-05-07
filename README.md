@@ -7,7 +7,9 @@ Side reaction analysis and Nanospray results interpretation (20230324 - )
 
 - [MystMS_organised_20230507.ipynb](https://github.com/xueannafang/MystMS_SP2_20230506/blob/main/MystMS_organised_20230507.ipynb)
 
-- Database of suspicious solvents: [susp_solv.json] (https://github.com/xueannafang/MystMS_SP2_20230506/blob/main/susp_solv.json)
+- Database of suspicious solvents: [susp_solv.json](https://github.com/xueannafang/MystMS_SP2_20230506/blob/main/susp_solv.json)
+
+- Example output: [rxn_anls_log_05072023120819.txt](https://github.com/xueannafang/MystMS_SP2_20230506/blob/main/rxn_anls_log_05072023120819.txt)
 
 # What's new?
 
