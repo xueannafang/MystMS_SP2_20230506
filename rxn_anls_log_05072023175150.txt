@@ -1,4 +1,4 @@
-2023-05-07 17:48:01.871823
+2023-05-07 17:51:50.424795
 ==================== 
 Potential side products not induced by solvents: 
 ==================== 
@@ -9,7 +9,7 @@ rxn_n : 0
 ms : 184.15
 msg : 0 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 0 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
 name : smOH->OC12H25_0|COOMe->COOH_0
-ms_with_Na : 208.14000000000001
+ms_with_Na : 207.132
 
  ------ 
 Group 2: 
@@ -17,7 +17,7 @@ rxn_n : 0
 ms : 352.47400000000005
 msg : 1 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 0 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
 name : smOH->OC12H25_1|COOMe->COOH_0
-ms_with_Na : 376.46400000000006
+ms_with_Na : 375.4560000000001
 
  ------ 
 Group 3: 
@@ -25,7 +25,7 @@ rxn_n : 0
 ms : 520.798
 msg : 2 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 0 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
 name : smOH->OC12H25_2|COOMe->COOH_0
-ms_with_Na : 544.788
+ms_with_Na : 543.78
 
  ------ 
 Group 4: 
@@ -33,7 +33,7 @@ rxn_n : 0
 ms : 689.1220000000001
 msg : 3 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 0 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
 name : smOH->OC12H25_3|COOMe->COOH_0
-ms_with_Na : 713.1120000000001
+ms_with_Na : 712.104
 
  ------ 
 Group 5: 
@@ -41,7 +41,7 @@ rxn_n : 1
 ms : 170.12300000000002
 msg : 0 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 1 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
 name : smOH->OC12H25_0|COOMe->COOH_1
-ms_with_Na : 194.11300000000003
+ms_with_Na : 193.10500000000002
 
  ------ 
 Group 6: 
@@ -49,7 +49,7 @@ rxn_n : 1
 ms : 338.44700000000006
 msg : 1 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 1 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
 name : smOH->OC12H25_1|COOMe->COOH_1
-ms_with_Na : 362.43700000000007
+ms_with_Na : 361.4290000000001
 
  ------ 
 Group 7: 
@@ -57,7 +57,7 @@ rxn_n : 1
 ms : 506.771
 msg : 2 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 1 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
 name : smOH->OC12H25_2|COOMe->COOH_1
-ms_with_Na : 530.761
+ms_with_Na : 529.7529999999999
 
  ------ 
 Group 8: 
@@ -65,7 +65,7 @@ rxn_n : 1
 ms : 675.095
 msg : 3 * OH group(s) on trioxyl methyl-benzoate substituted by dodecyl group(s). 1 * ester group(s) on methyl-benzoate hydrolysised into carboxylic acid. 
 name : smOH->OC12H25_3|COOMe->COOH_1
-ms_with_Na : 699.085
+ms_with_Na : 698.077
 
  =========================== 
 Potential side products induced by solvents: 
@@ -79,7 +79,7 @@ Group 1:
 ms : 331.34000000000003
 msg : Ionic liuqid is formed between N-methylimidazole and 1-bromododecane.
 name : NMI_BrAlkane_salt
-ms_with_Na : 355.33000000000004
+ms_with_Na : 354.32200000000006
 
  ------ 
 Group 2: 
@@ -87,7 +87,7 @@ Group 2:
 ms : 328.34000000000003
 msg : Ionic liuqid is formed between Pyridine and 1-bromododecane.
 name : Pyd_BrAlkane_salt
-ms_with_Na : 352.33000000000004
+ms_with_Na : 351.32200000000006
 
  ------ 
 Group 3: 
@@ -95,7 +95,7 @@ Group 3:
 ms : 350.43
 msg : Ionic liuqid is formed between Triethylamine and 1-bromododecane.
 name : TEA_BrAlkane_salt
-ms_with_Na : 374.42
+ms_with_Na : 373.41200000000003
 
  =========================== 
 ========================== 
@@ -107,7 +107,7 @@ Group 1:
 ms : 234.208
 msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by N-methylimidazole .
 name : NMI_smOH->OC12H25_0_new_ester
-ms_with_Na : 258.198
+ms_with_Na : 257.19
 
  ------ 
 Group 2: 
@@ -115,7 +115,7 @@ Group 2:
 ms : 402.53200000000004
 msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by N-methylimidazole .
 name : NMI_smOH->OC12H25_1_new_ester
-ms_with_Na : 426.52200000000005
+ms_with_Na : 425.51400000000007
 
  ------ 
 Group 3: 
@@ -123,7 +123,7 @@ Group 3:
 ms : 570.856
 msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by N-methylimidazole .
 name : NMI_smOH->OC12H25_2_new_ester
-ms_with_Na : 594.846
+ms_with_Na : 593.838
 
  ------ 
 Group 4: 
@@ -131,7 +131,7 @@ Group 4:
 ms : 739.1800000000001
 msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by N-methylimidazole .
 name : NMI_smOH->OC12H25_3_new_ester
-ms_with_Na : 763.1700000000001
+ms_with_Na : 762.162
 
  ------ 
 Group 5: 
@@ -139,7 +139,7 @@ Group 5:
 ms : 231.208
 msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by Pyridine .
 name : Pyd_smOH->OC12H25_0_new_ester
-ms_with_Na : 255.198
+ms_with_Na : 254.19
 
  ------ 
 Group 6: 
@@ -147,7 +147,7 @@ Group 6:
 ms : 399.53200000000004
 msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by Pyridine .
 name : Pyd_smOH->OC12H25_1_new_ester
-ms_with_Na : 423.52200000000005
+ms_with_Na : 422.51400000000007
 
  ------ 
 Group 7: 
@@ -155,7 +155,7 @@ Group 7:
 ms : 567.856
 msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by Pyridine .
 name : Pyd_smOH->OC12H25_2_new_ester
-ms_with_Na : 591.846
+ms_with_Na : 590.838
 
  ------ 
 Group 8: 
@@ -163,7 +163,7 @@ Group 8:
 ms : 736.1800000000001
 msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by Pyridine .
 name : Pyd_smOH->OC12H25_3_new_ester
-ms_with_Na : 760.1700000000001
+ms_with_Na : 759.162
 
  ------ 
 Group 9: 
@@ -171,7 +171,7 @@ Group 9:
 ms : 253.29800000000003
 msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by Triethylamine .
 name : TEA_smOH->OC12H25_0_new_ester
-ms_with_Na : 277.288
+ms_with_Na : 276.28000000000003
 
  ------ 
 Group 10: 
@@ -179,7 +179,7 @@ Group 10:
 ms : 421.62200000000007
 msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by Triethylamine .
 name : TEA_smOH->OC12H25_1_new_ester
-ms_with_Na : 445.6120000000001
+ms_with_Na : 444.6040000000001
 
  ------ 
 Group 11: 
@@ -187,7 +187,7 @@ Group 11:
 ms : 589.946
 msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by Triethylamine .
 name : TEA_smOH->OC12H25_2_new_ester
-ms_with_Na : 613.936
+ms_with_Na : 612.928
 
  ------ 
 Group 12: 
@@ -195,7 +195,7 @@ Group 12:
 ms : 758.2700000000001
 msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by Triethylamine .
 name : TEA_smOH->OC12H25_3_new_ester
-ms_with_Na : 782.2600000000001
+ms_with_Na : 781.2520000000001
 
  ------ 
 Group 13: 
@@ -203,7 +203,7 @@ Group 13:
 ms : 212.198
 msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by 1-propanol .
 name : nPA_smOH->OC12H25_0_new_ester
-ms_with_Na : 236.18800000000002
+ms_with_Na : 235.18
 
  ------ 
 Group 14: 
@@ -211,7 +211,7 @@ Group 14:
 ms : 380.52200000000005
 msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by 1-propanol .
 name : nPA_smOH->OC12H25_1_new_ester
-ms_with_Na : 404.51200000000006
+ms_with_Na : 403.5040000000001
 
  ------ 
 Group 15: 
@@ -219,7 +219,7 @@ Group 15:
 ms : 548.846
 msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by 1-propanol .
 name : nPA_smOH->OC12H25_2_new_ester
-ms_with_Na : 572.836
+ms_with_Na : 571.828
 
  ------ 
 Group 16: 
@@ -227,7 +227,7 @@ Group 16:
 ms : 717.1700000000001
 msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by 1-propanol .
 name : nPA_smOH->OC12H25_3_new_ester
-ms_with_Na : 741.1600000000001
+ms_with_Na : 740.152
 
  ------ 
 Group 17: 
@@ -235,7 +235,7 @@ Group 17:
 ms : 198.178
 msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by ethanol .
 name : EtOH_smOH->OC12H25_0_new_ester
-ms_with_Na : 222.168
+ms_with_Na : 221.16
 
  ------ 
 Group 18: 
@@ -243,7 +243,7 @@ Group 18:
 ms : 366.50200000000007
 msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by ethanol .
 name : EtOH_smOH->OC12H25_1_new_ester
-ms_with_Na : 390.4920000000001
+ms_with_Na : 389.4840000000001
 
  ------ 
 Group 19: 
@@ -251,7 +251,7 @@ Group 19:
 ms : 534.826
 msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by ethanol .
 name : EtOH_smOH->OC12H25_2_new_ester
-ms_with_Na : 558.816
+ms_with_Na : 557.808
 
  ------ 
 Group 20: 
@@ -259,7 +259,7 @@ Group 20:
 ms : 703.1500000000001
 msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by ethanol .
 name : EtOH_smOH->OC12H25_3_new_ester
-ms_with_Na : 727.1400000000001
+ms_with_Na : 726.1320000000001
 
  ------ 
 Group 21: 
@@ -267,7 +267,7 @@ Group 21:
 ms : 212.208
 msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by isopropanol .
 name : IPA_smOH->OC12H25_0_new_ester
-ms_with_Na : 236.198
+ms_with_Na : 235.19
 
  ------ 
 Group 22: 
@@ -275,7 +275,7 @@ Group 22:
 ms : 380.53200000000004
 msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by isopropanol .
 name : IPA_smOH->OC12H25_1_new_ester
-ms_with_Na : 404.52200000000005
+ms_with_Na : 403.51400000000007
 
  ------ 
 Group 23: 
@@ -283,7 +283,7 @@ Group 23:
 ms : 548.856
 msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by isopropanol .
 name : IPA_smOH->OC12H25_2_new_ester
-ms_with_Na : 572.846
+ms_with_Na : 571.838
 
  ------ 
 Group 24: 
@@ -291,7 +291,7 @@ Group 24:
 ms : 717.1800000000001
 msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by isopropanol .
 name : IPA_smOH->OC12H25_3_new_ester
-ms_with_Na : 741.1700000000001
+ms_with_Na : 740.162
 
  ------ 
 Group 25: 
@@ -299,7 +299,7 @@ Group 25:
 ms : 226.22799999999998
 msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by tertbutylalcohol .
 name : tBuOH_smOH->OC12H25_0_new_ester
-ms_with_Na : 250.218
+ms_with_Na : 249.20999999999998
 
  ------ 
 Group 26: 
@@ -307,7 +307,7 @@ Group 26:
 ms : 394.552
 msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by tertbutylalcohol .
 name : tBuOH_smOH->OC12H25_1_new_ester
-ms_with_Na : 418.54200000000003
+ms_with_Na : 417.53400000000005
 
  ------ 
 Group 27: 
@@ -315,7 +315,7 @@ Group 27:
 ms : 562.876
 msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by tertbutylalcohol .
 name : tBuOH_smOH->OC12H25_2_new_ester
-ms_with_Na : 586.866
+ms_with_Na : 585.858
 
  ------ 
 Group 28: 
@@ -323,7 +323,7 @@ Group 28:
 ms : 731.2
 msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by tertbutylalcohol .
 name : tBuOH_smOH->OC12H25_3_new_ester
-ms_with_Na : 755.19
+ms_with_Na : 754.182
 
  =========================== 
 ========================== 
@@ -335,7 +335,7 @@ Group 1:
 ms : 228.41800000000003
 msg : SN2 product is formed between 1-propanol and 1-bromododecane.
 name : nPA_BrAlkane_SN2
-ms_with_Na : 252.40800000000004
+ms_with_Na : 251.40000000000003
 
  ------ 
 Group 2: 
@@ -343,7 +343,7 @@ Group 2:
 ms : 214.398
 msg : SN2 product is formed between ethanol and 1-bromododecane.
 name : EtOH_BrAlkane_SN2
-ms_with_Na : 238.388
+ms_with_Na : 237.38
 
  ------ 
 Group 3: 
@@ -351,7 +351,7 @@ Group 3:
 ms : 228.42800000000003
 msg : SN2 product is formed between isopropanol and 1-bromododecane.
 name : IPA_BrAlkane_SN2
-ms_with_Na : 252.41800000000003
+ms_with_Na : 251.41000000000003
 
  ------ 
 Group 4: 
@@ -359,7 +359,7 @@ Group 4:
 ms : 242.448
 msg : SN2 product is formed between tertbutylalcohol and 1-bromododecane.
 name : tBuOH_BrAlkane_SN2
-ms_with_Na : 266.438
+ms_with_Na : 265.43
 
  =========================== 
 ========================== 
@@ -371,7 +371,7 @@ Group 1:
 ms : 168.328
 msg : E2 product is formed from by 1-bromododecane when reacting with 1-propanol.
 name : nPA_BrAlkane_E2
-ms_with_Na : 192.318
+ms_with_Na : 191.31
 
  ------ 
 Group 2: 
@@ -379,7 +379,7 @@ Group 2:
 ms : 168.328
 msg : E2 product is formed from by 1-bromododecane when reacting with ethanol.
 name : EtOH_BrAlkane_E2
-ms_with_Na : 192.318
+ms_with_Na : 191.31
 
  ------ 
 Group 3: 
@@ -387,7 +387,7 @@ Group 3:
 ms : 168.328
 msg : E2 product is formed from by 1-bromododecane when reacting with isopropanol.
 name : IPA_BrAlkane_E2
-ms_with_Na : 192.318
+ms_with_Na : 191.31
 
  ------ 
 Group 4: 
@@ -395,7 +395,7 @@ Group 4:
 ms : 168.328
 msg : E2 product is formed from by 1-bromododecane when reacting with tertbutylalcohol.
 name : tBuOH_BrAlkane_E2
-ms_with_Na : 192.318
+ms_with_Na : 191.31
 
  =========================== 
 ========================== 
@@ -407,7 +407,7 @@ Group 1:
 ms : 198.118
 msg : The methyl ester fraction on the smOH->OC12H25_0 is replaced by the equivalent alcohol part of the ethyal_acetate .
 name : EA_smOH->OC12H25_0_new_ester
-ms_with_Na : 222.108
+ms_with_Na : 221.1
 
  ------ 
 Group 2: 
@@ -415,7 +415,7 @@ Group 2:
 ms : 366.442
 msg : The methyl ester fraction on the smOH->OC12H25_1 is replaced by the equivalent alcohol part of the ethyal_acetate .
 name : EA_smOH->OC12H25_1_new_ester
-ms_with_Na : 390.432
+ms_with_Na : 389.42400000000004
 
  ------ 
 Group 3: 
@@ -423,7 +423,7 @@ Group 3:
 ms : 534.766
 msg : The methyl ester fraction on the smOH->OC12H25_2 is replaced by the equivalent alcohol part of the ethyal_acetate .
 name : EA_smOH->OC12H25_2_new_ester
-ms_with_Na : 558.756
+ms_with_Na : 557.7479999999999
 
  ------ 
 Group 4: 
@@ -431,6 +431,6 @@ Group 4:
 ms : 703.09
 msg : The methyl ester fraction on the smOH->OC12H25_3 is replaced by the equivalent alcohol part of the ethyal_acetate .
 name : EA_smOH->OC12H25_3_new_ester
-ms_with_Na : 727.08
+ms_with_Na : 726.072
 
  =========================== 
