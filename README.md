@@ -3,7 +3,9 @@ Side reaction analysis and Nanospray results interpretation (20230324 - )
 
 # This project is still under construction.
 
-# Latest version (20230508):
+# Latest version (20230629):
+
+- [MystMS_NMR_qsp.ipynb](https://github.com/xueannafang/MystMS_SP2_20230506/blob/main/MystMS_NMR_qsp.ipynb)
 
 - [MystMS_organised_20230507.ipynb](https://github.com/xueannafang/MystMS_SP2_20230506/blob/main/MystMS_organised_20230507.ipynb)
 
@@ -18,3 +20,4 @@ Side reaction analysis and Nanospray results interpretation (20230324 - )
 - Side reaction analysis based on solvent-participated reactions (ester hydrolysis, transesterification, SN2, E2, ester exchange, formation of ionic liquid).
 - Included nanospray + Na.
 - Dimer tests. (Polymer tests TD)
+- Quantitiavely analyse side product ratios from NMR integral information - check NMR_qsp above.
