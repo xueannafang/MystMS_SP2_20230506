@@ -5,8 +5,6 @@ Side reaction analysis and Nanospray results interpretation (20230324 - )
 
 # Latest version (20230629):
 
-- [MystMS_NMR_qsp.ipynb](https://github.com/xueannafang/MystMS_SP2_20230506/blob/main/MystMS_NMR_qsp.ipynb)
-
 - [MystMS_organised_20230507.ipynb](https://github.com/xueannafang/MystMS_SP2_20230506/blob/main/MystMS_organised_20230507.ipynb)
 
 - Database of suspicious solvents: [susp_solv.json](https://github.com/xueannafang/MystMS_SP2_20230506/blob/main/susp_solv.json)
